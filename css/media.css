@@ -1,0 +1,19 @@
+@media(max-width:420px) and (min-width:0) 
+{
+    .top-right-banner-img {
+        width: 84%;
+        height: 95%;
+        border-radius: 50%;
+    }
+    .banner_wrapper .banner-content h2::after {
+        width: 55%;
+        top: 50%;
+        left: 34%;
+    }
+    .about_wrapper .img-fluid {
+        height: 272px;
+        width: 65%;
+        border-radius: 50%;
+    }
+    
+}
